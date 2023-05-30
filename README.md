@@ -1,7 +1,6 @@
 # Library-Management-System
 My 3rd Semester Project
 
-# Library Management System
 
 The Library Management System is a software application developed as a semester project for managing the operations of a library. It provides a user-friendly interface for library staff to perform basic CRUD (Create, Read, Update, Delete) operations on books and members, and keep track of library inventory and borrowing activities.
 
