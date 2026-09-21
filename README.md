@@ -37,9 +37,6 @@ Contributions to the Library Management System are welcome! If you find any issu
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute the software.
 
-## Contact
-
-For any inquiries or questions, please contact [as032389@gmail.com](mailto:as032389@gmail.com).
 
 
 
